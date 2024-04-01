@@ -8,7 +8,7 @@ Frontend Developer
 
 >### Hard Skills:
 
-* **HTML, CSS, JavaScript, Git, React, Webpack, TypeScript, Redux,  RTK Querry, React Router , SCSS**
+* **HTML, CSS, JavaScript, Git, React, Webpack, TypeScript, Redux,  RTK, React Router , SCSS**
 >
 * Был опыт работы с библиотеками компонентов **Ant design, Shadcn/ui, Material UI** 
 
